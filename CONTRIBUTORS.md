@@ -78,6 +78,12 @@
 - Bio: Coder.
 - GitHub: [varuncoc](https://github.com/varuncoc)
 
+#### Name: [ecebear14](https://github.com/ecebear14)
+
+- Place: Austin, TX
+- Bio: Engineer
+- GitHub: [varuncoc](https://github.com/ecebear14)
+
 #### Name: [I Kadek Mahardika](https://github.com/kadekmahardika)
 
 - Place: Indonesia.
